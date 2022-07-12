@@ -1,6 +1,6 @@
 # Sentence as Password
 
-The space is a legal character in most password forms. This means you can use a normal sentence as password. e.g. ``There is no double about it, Hong Kong is foodie heaven, dim sum, egg tart, etc 8)``
+The space is a legal character in most password forms. This means you can use a normal sentence as password. e.g. ``There is no double about it, Hong Kong is foodie heaven, dim sum, egg tart, etc 8)`` (83 characters with numbers, capital letters, symbols)
 
 It’s much easier to remember than ``8ft@!*TeeSe`` and it’s also more secure when used in the proper manner.
 
