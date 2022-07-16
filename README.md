@@ -2,9 +2,9 @@
 
 The space is a legal character in most password forms. This means you can use a normal sentence as password. e.g. 
 
-``There is no double about it, Hong Kong is foodie heaven, dim sum, egg tart, etc 8)``
+``I like the food in Hong Kong, my password is super super strong ;8)``
 
-(consists 83 characters with number, capital letters, symbols)*
+(consists 67 characters with number, capital letters, symbols)
 
 It’s much easier to remember than ``8ft@!*TeeSe`` and it’s also more secure when used in the proper manner.
 
