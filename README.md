@@ -14,3 +14,6 @@ Just having a sentence as your password can create a nightmare for hackers, acco
 The advantage of using a sentence is that it’s much easier to remember than ``8ft@!*TeeSea`` and it’s also more secure when used in the proper manner.
 
 ![alt text](https://github.com/eddiechu/Sentence-as-password/blob/main/image/password2.gif?raw=true)
+
+Reference
+https://www.passwordmonster.com/
