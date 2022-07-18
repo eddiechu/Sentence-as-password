@@ -17,3 +17,22 @@ The advantage of using a sentence is that it’s much easier to remember than ``
 
 ###### Reference
 https://www.passwordmonster.com
+
+#
+
+eddie chu
+eddiechu.android@gmail.com
+infosec
+security
+cyber security
+cybersecurity
+incident response
+hacker
+defense
+testing
+pentest
+penetration test
+password
+strong password
+complex password
+password policy
